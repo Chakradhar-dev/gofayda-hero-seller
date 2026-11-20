@@ -23,7 +23,7 @@ const {
 } = require('./services/labelCropperEngine');
 
 const app = express();
-const PORT = process.env.PORT || 3000;
+const PORT = process.env.PORT || 9000;
 
 app.use(cors());
 app.use(express.json({ limit: '50mb' }));

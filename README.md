@@ -62,7 +62,7 @@ npm start
 ```
 
 ### 3. Open in Browser
-Visit **[http://localhost:3000](http://localhost:3000)** in any web browser.
+Visit **[http://localhost:9000](http://localhost:9000)** in any web browser.
 
 ---
 
